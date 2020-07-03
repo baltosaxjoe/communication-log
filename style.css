@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 body {
    color: white;
@@ -5,4 +6,9 @@ body {
    font-size: 150%;
    font-family: 'Satisfy', cursive;
    margin: 5em 25%;
+=======
+body {
+   color: white;
+   background-color: black;
+>>>>>>> e281fd11b7c8c966480cbd76e63ce4b08dbe537f
 }
